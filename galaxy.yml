@@ -1,0 +1,11 @@
+namespace: js
+name: simplest_filters
+version: 1.0.0
+readme: README.md
+authors:
+  - justshell <>
+
+description: just one more code for ansible
+tags: []
+dependencies: {}
+build_ignore: []
